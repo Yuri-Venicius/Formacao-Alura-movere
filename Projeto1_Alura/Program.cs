@@ -11,7 +11,7 @@ namespace Projeto1_Alura
         static void Main(string[] args)
         {
             Console.WriteLine("Criando o projeto para teste do GitHub");
-            Console.ReadLine();
+            
         }
     }
 }
